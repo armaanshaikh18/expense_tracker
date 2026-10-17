@@ -1,4 +1,3 @@
-import ExpenseItem from "../Expenses/ExpenseItem";
 import Card from "../UI/Card";
 import "../Expenses/Expense.css";
 import ExpenseFilter from "../ExpenseForm/ExpenseFilter";
